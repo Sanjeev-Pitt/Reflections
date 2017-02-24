@@ -4,16 +4,25 @@ I have to add git init
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+staging area tells us what part of things have been done to git repository
+
 How can you use the staging area to make sure you have one commit per logical
 change?
+I can check git status and will ensure that I will add one changed file at a time 
+
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Branches help me to do experimentation, adding some entirely new thing to the existing project like adding some italin version as told in the lecture.
 
 How do the diagrams help you visualize the branch structure?
+It becomes easy to visualize the structure. Moreover the structure can easily be seen.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+I am not able to merge the tow files.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+automatic merging may have conflicts but mannualy we can remove conflicts immediately
